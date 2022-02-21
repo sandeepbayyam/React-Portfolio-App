@@ -4,7 +4,7 @@
 </h2>
 
 
-## React-myShop-App
+## React-Portfolio-App
  ![](Reactportfolio.gif)
 
   
